@@ -38,34 +38,63 @@ A modern flashcards app designed to help users learn and retain languages or sub
 
 - Retention rates based on spaced repetition
 
-Screenshots
 
-Getting Started
-Prerequisites
-Xcode (for iOS development) or any other compatible IDE for your platform
-Basic knowledge of Swift and SwiftUI (for customization or development)
-Installation
-Clone the repository:
-bash
-Copy code
-git clone <repository-url>
-Open the project in Xcode or your preferred IDE.
-Build and run the app on a simulator or connected device.
-Usage
-Create Flashcards: Enter a new word, translation, and example sentence.
-Take a Quiz: Test your memory by taking quizzes based on your saved flashcards.
-Track Progress: View your performance and improvement over time through visual graphs.
-Built With
-Swift: Main programming language
-SwiftUI: For creating UI components
-Core Data: To store flashcards and user progress locally
-Contributing
-Contributions are welcome! Please follow these steps:
+## Screenshots
 
-Fork the repository.
-Create a new branch for your feature: git checkout -b feature-name.
-Commit your changes: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature-name.
-Submit a pull request.
-License
-This project is licensed under the MIT License.
+### Flashcard Creation Screen
+![Flashcard Creation Screen](screenshotsquiz_progresstracking_mode.png.jpg)
+
+### Quiz Mode Screen
+![Quiz Mode Screen](screenshotsflashcard_creation.png.jpg)
+
+**Getting Started**
+
+**Prerequisites**
+
+- Xcode (for iOS development) or any other compatible IDE for your platform
+
+- Basic knowledge of Swift and SwiftUI (for customization or development)
+
+**Installation**
+
+**Clone the repository:**
+
+- git clone <repository-url>
+
+- Open the project in Xcode or your preferred IDE.
+
+- Build and run the app on a simulator or connected device.
+  
+**Usage**
+
+- Create Flashcards: Enter a new word, translation, and example sentence.
+
+- Take a Quiz: Test your memory by taking quizzes based on your saved flashcards.
+  
+- Track Progress: View your performance and improvement over time through visual graphs.
+  
+**Built With**
+
+- Swift: Main programming language
+  
+- SwiftUI: For creating UI components
+  
+- Core Data: To store flashcards and user progress locally
+
+**Contributing**
+
+- Contributions are welcome! Please follow these steps:
+
+- Fork the repository.
+  
+- Create a new branch for your feature: git checkout -b feature-name.
+
+- Commit your changes: git commit -m 'Add new feature'.
+  
+- Push to the branch: git push origin feature-name.
+  
+- Submit a pull request.
+  
+**License**
+
+- This project is licensed under the MIT License.
